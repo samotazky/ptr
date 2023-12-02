@@ -1,4 +1,3 @@
-// Dropdown.js
 import React from 'react';
 import CountrySK from '../img/CountrySK.svg';
 import ArrowDown from '../img/ArrowDown.svg';
