@@ -17,7 +17,7 @@ module.exports = konstaConfig({
     extend: { colors: {
       darkBrown: "#3A2F2A",
       orange: "#E25926",
-      light: "#F2E9D4",
+      lightBrown: "#F2E9D4",
     },
     borderRadius: {
       "10px": "10px",

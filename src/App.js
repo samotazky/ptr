@@ -18,9 +18,9 @@ import Dropdown from './components/DropDown';
         <p className='text-white font-labrada'>Lorem ipsum dolor sit amet consectetur. Integer semper adipiscing nam libero vitae id sem augue. Sit sed odio et mauris tortor sit nisl. Sed consectetur eget enim lacinia accumsan posuere. Nulla ipsum mi in. Sed consectetur eget enim lacinia accumsan.</p>
       </Block >
       <Block className="flex flex-col gap-4 font-labrada mt-0">
-        <Button className=' rounded-10px'>Snímky obrazovky</Button>
-        <Button className=' rounded-10px'>Prihlásiť sa</Button>
-        <Button className=' rounded-10px'>Registrovať sa</Button>
+        <Button className='bg-white text-black rounded-10px'>Snímky obrazovky</Button>
+        <Button className='bg-orange rounded-10px'>Prihlásiť sa</Button>
+        <Button className='bg-lightBrown text-darkBrown rounded-10px'>Registrovať sa</Button>
       </Block>
     </div>
   );
